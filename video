@@ -1,0 +1,57 @@
+[33mcommit 9ba4956a8d25f6c4eff8bd18bad26945abebc340[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Wed Dec 10 10:17:12 2025 -0600
+
+    adds video
+
+[33mcommit f65c031ac56d942bcf0c00cec5054b0cee9608d6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Wed Dec 10 10:10:29 2025 -0600
+
+    adds link--cta
+
+[33mcommit d6f085e97dc7677869541d6f70ef2212ad266cbb[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Wed Dec 10 09:56:08 2025 -0600
+
+    adds text styling
+
+[33mcommit 65ad93e1c012085a8a18525089199ab489277c5b[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Wed Dec 10 09:45:17 2025 -0600
+
+    made some minor tweeks
+
+[33mcommit ac561b807dee1fa0a01f607d51a24f13c7434a9a[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Wed Dec 10 08:34:36 2025 -0600
+
+    adds media resources
+
+[33mcommit d077201bb68ade1d82bed2775fbe77a9f7b53322[m
+Author: John Griffin <116393056+Chainbreaker7747@users.noreply.github.com>
+Date:   Wed Dec 10 07:21:27 2025 -0600
+
+    Revise index.html with new meta tags and title
+    
+    Updated the HTML structure with meta tags and corrected the title.
+
+[33mcommit e72ddb667b09de05107dc30712aa7bb238701acc[m
+Author: John Griffin <116393056+Chainbreaker7747@users.noreply.github.com>
+Date:   Wed Dec 10 07:07:32 2025 -0600
+
+    Update stylesheet link path in index.html
+
+[33mcommit 375f0ff4622d102027d8483a40cf21e429d94c5b[m
+Author: John Griffin <116393056+Chainbreaker7747@users.noreply.github.com>
+Date:   Tue Dec 9 21:22:39 2025 -0600
+
+    Add initial HTML structure for the webpage
+    
+     adds DOCTYPE and style.css
+
+[33mcommit 5610482a13064839909719daad7a7f3dab10cde6[m
+Author: John Griffin <alabama7747@gmail.com>
+Date:   Tue Dec 9 20:40:58 2025 -0600
+
+    new directory resources and css
