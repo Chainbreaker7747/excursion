@@ -16,7 +16,8 @@ body {
 }
 .header--tertiary {
     font-size: 21px;
-    color: grey
+    color: grey;
+}
 .link--cta{
     font-size: 16px;
     color: aquamarine;
